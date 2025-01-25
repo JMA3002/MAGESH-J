@@ -15,7 +15,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-- 👨‍💻 All of my projects are available at [https://vishnusasikumar181.wixsite.com/my-site-1](https://vishnusasikumar181.wixsite.com/my-site-1)
  
 - 📫 How to reach me **mage0105mailme@gmail.com**
 - ---
@@ -24,8 +23,7 @@
 - <div>
 <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://camo.githubusercontent.com/644b7c04356f7e17ee98274b9a7d59af01e06bc988e4c311c8259df425d13c18/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39372f53716c6974652d7371756172652d69636f6e2e737667" title="SQL-Lite" alt="SQLLite" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" title="Jupyter Notebook"  alt="Jupyter" width="40" height="40"/>&nbsp;
 </div>
